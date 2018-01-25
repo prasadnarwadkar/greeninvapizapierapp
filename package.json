@@ -4,8 +4,8 @@
   "description": "Enables Zappers to work with Green Invoice entities.",
   "repository": "",
   "homepage": "https://zapier.com/",
-  "author": "Prasad Narwadkar (info@prasadnarwadkar.in)",
-  "license": "TBD",
+  "author": "Prasad Narwadkar",
+  "license": "MIT",
   "main": "index.js",
   "scripts": {
     "test": "node node_modules/mocha/bin/mocha --recursive --timeout 15000"
