@@ -1,0 +1,34 @@
+Welcome to the Zapier Platform! :-D
+
+                zzzzzzzz
+      zzz       zzzzzzzz       zzz
+    zzzzzzz     zzzzzzzz     zzzzzzz
+   zzzzzzzzzz   zzzzzzzz   zzzzzzzzzz
+      zzzzzzzzz zzzzzzzz zzzzzzzzz
+        zzzzzzzzzzzzzzzzzzzzzzzz
+          zzzzzzzzzzzzzzzzzzzz
+zzzzzzzzzzzzzzz          zzzzzzzzzzzzzzz
+zzzzzzzzzzzzzzz          zzzzzzzzzzzzzzz
+zzzzzzzzzzzzzzz          zzzzzzzzzzzzzzz
+zzzzzzzzzzzzzzz          zzzzzzzzzzzzzzz
+          zzzzzzzzzzzzzzzzzzzz
+        zzzzzzzzzzzzzzzzzzzzzzzz
+      zzzzzzzzz zzzzzzzz zzzzzzzzz
+   zzzzzzzzzz   zzzzzzzz   zzzzzzzzzz
+    zzzzzzz     zzzzzzzz     zzzzzzz
+      zzz       zzzzzzzz       zzz
+                zzzzzzzz
+
+Let's initialize your app!
+
+  Downloading zapier/zapier-platform-example-app-trigger starter app    [?25h[?25l[3D.  [3D.. [3D...[3D   [?25h[3D    done!
+  Copy C:\Work\Samples\Zapier\.gitignore .  [?25h[?25l[?25h[3D    done!
+  Copy C:\Work\Samples\Zapier\.nvmrc .. [?25h[?25l[?25h[3D    done!
+  Copy C:\Work\Samples\Zapier\.travis.yml ...[?25h[?25l[?25h[3D    done!
+  Copy C:\Work\Samples\Zapier\index.js    [?25h[?25l[?25h[3D    done!
+  Copy C:\Work\Samples\Zapier\package.json .  [?25h[?25l[?25h[3D    done!
+  Copy C:\Work\Samples\Zapier\test\triggers.js .. [?25h[?25l[?25h[3D    done!
+  Copy C:\Work\Samples\Zapier\triggers\recipe.js ...[?25h[?25l[?25h[3D    done!
+
+Finished! You might need to `npm install` then try `zapier test`!
+[?25h[?25h
