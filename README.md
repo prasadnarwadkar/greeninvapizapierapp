@@ -9,6 +9,6 @@ This app depends upon the following packages. Please ensure you update all the n
 
 - zapier-platform-core
 - Mocha (for unit tests)
-- Should (for unti tests)
+- Should (for unit tests)
 # Build and Test
 Use ```zapier validate``` and ```zapier build``` CLI commands to validate and build your app respectively. 
